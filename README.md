@@ -9,6 +9,8 @@ Given sales data for 1559 products across 10 stores of the Big Mart chain in var
 - Which includes replacing the miscoded information and handling missing data.
 - Make a Exploratory Data Analysis on the data using pandas.
 - Visualize distributions and correlation of features using seaborn and pandas
-![picture alt](https://drive.google.com/file/d/1GwHjj-ddstSkadKMit2pRjdakhLtGc1I/view?usp=sharing 'Correlation Heat Map')
+
+![picture alt](https://github.com/aneeshjv96/BigMart-Images/blob/main/big%20mart%20correlation.png "Correlation Heatmap")
+
 - Build various regression models taking the selected features through feature engineering and compare their scores
 - Predict the item_outlet_sales for the test data
