@@ -8,6 +8,7 @@ Given sales data for 1559 products across 10 stores of the Big Mart chain in var
 - Perform data cleaning using pandas library. 
 - Which includes replacing the miscoded information and handling missing data.
 - Make a Exploratory Data Analysis on the data using pandas.
+![picture alt](https://github.com/aneeshjv96/BigMart-Images/blob/main/Screenshot%202021-09-23%20at%209.05.21%20PM.png)
 - Visualize distributions and correlation of features using seaborn and pandas
 
 ![picture alt](https://github.com/aneeshjv96/BigMart-Images/blob/main/big%20mart%20correlation.png "Correlation Heatmap")
